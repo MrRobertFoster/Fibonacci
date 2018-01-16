@@ -2,8 +2,9 @@
     'Robert Foster
     'January 2018
     '
-    'Program generates the fibonacci sequence and draws a fibonacci spiral
-    '
+    'Program generates a fibonacci sequence and draws a fibonacci spiral and Fibonacci boxes
+    'Also draws rectangles used by drawArc vb function
+
     'f holds fibonacci sequence
     'x,y are location where spiral originates for box n and form spiral coordinates
     'xr, yr are coordinates for VB to draw rectangle for each box
