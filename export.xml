@@ -1,0 +1,24 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:PersistableTipCollection id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VisualStudio.Debugger.DebuggerToolWindows.DataTips.PinnableTips.Persistence/VsDebugPresentationPackage%2C%20Version%3D10.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<Tips href="#ref-3"/>
+</a1:PersistableTipCollection>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:anyType[1]">
+<item href="#ref-4"/>
+</SOAP-ENC:Array>
+<a3:FloatingTip id="ref-4" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Microsoft.VisualStudio.Debugger.DebuggerToolWindows.DataTips.PinnableTips.UI/VsDebugPresentationPackage%2C%20Version%3D10.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<left>572.80000000000007</left>
+<top>509.6</top>
+<innerTip href="#ref-5"/>
+</a3:FloatingTip>
+<a3:Tip id="ref-5" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Microsoft.VisualStudio.Debugger.DebuggerToolWindows.DataTips.PinnableTips.UI/VsDebugPresentationPackage%2C%20Version%3D10.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<identity.Moniker id="ref-6">{ad6d6d99-59d9-4969-82fa-438f136ae259} C:\Users\rfoster\Documents\Visual Studio 2010\Projects\U5\FibonacciSpiral\FibonacciSpiral\Form1.vb</identity.Moniker>
+<identity.Position>2328</identity.Position>
+<watchItemCount>1</watchItemCount>
+<watchItem0 id="ref-7">yr(i)</watchItem0>
+<comments id="ref-8"></comments>
+<showingComments>false</showingComments>
+<uniqueIdentity id="ref-9">{53ef753d-37af-41c5-bdfd-ea48e9accdfa}</uniqueIdentity>
+</a3:Tip>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
