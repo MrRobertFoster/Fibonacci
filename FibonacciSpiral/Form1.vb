@@ -1,6 +1,6 @@
 ﻿Public Class Form1
     'Robert Foster
-    'January 2018
+    'January 15, 2018
     '
     'Program generates a fibonacci sequence and draws a fibonacci spiral and Fibonacci boxes
     'Also draws rectangles used by drawArc vb function
